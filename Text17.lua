@@ -23,7 +23,7 @@ local humanoidRootPart
 local autofarming = false
 local coinsCollected = 0
 local collectedSet = {}
-local speed = 15
+local speed = 20
 local maxRange = 200
 local noclipConn
 local healthConn
